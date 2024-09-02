@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, Tayo!";
 ```
+- [x] Turn on GitHub Pages
+- [x] Show picture of Ocean
+- [x] Introduce the name Tayo
